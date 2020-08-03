@@ -1,6 +1,9 @@
-# Sinter
+# Annotated Sinter
 
-[![Build Status](https://app.bitrise.io/app/7981426cfe90b436/status.svg?token=nUfXVprK5okMCcFXeOuwzg&branch=master)](https://app.bitrise.io/app/7981426cfe90b436)
+This fork of Sinter is meant to serve as an annotated version, created to allow me to familiarize myself with nontrivial Swift projects. It is not intended to be functionally different from the real project, and will mostly just be me adding lots of comments to the code to identify what everything is doing.
+
+
+# Sinter
 
 Sinter is a 100% user-mode endpoint security agent for macOS 10.15 and above, written in Swift.
 
